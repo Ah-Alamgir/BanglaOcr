@@ -1,25 +1,7 @@
 {
-  "name": "bengali-book-ocr-gemini",
+  "name": "banglaocr",
   "version": "1.0.0",
-  "description": "An application to upload pages of a Bengali storybook and extract the text content using AI.",
-  "private": true,
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "keywords": [
-    "react",
-    "gemini",
-    "ocr",
-    "bengali",
-    "ai"
-  ],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  }
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {}
 }
