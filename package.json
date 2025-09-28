@@ -1,0 +1,18 @@
+{
+  "name": "bengali-book-ocr-gemini",
+  "version": "1.0.0",
+  "description": "An application to upload pages of a Bengali storybook and extract the text content using AI.",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Serve the project root directory with a static file server.\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "gemini",
+    "ocr",
+    "bengali",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC"
+}

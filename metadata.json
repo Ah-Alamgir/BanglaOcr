@@ -1,0 +1,5 @@
+{
+  "name": "Bengali Book OCR with Gemini",
+  "description": "An application to upload pages of a Bengali storybook and extract the text content using AI. It's designed to handle a large number of pages efficiently.",
+  "requestFramePermissions": []
+}
