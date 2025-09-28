@@ -1,1 +1,25 @@
-{\n  "name": "bengali-book-ocr-gemini",\n  "version": "1.0.0",\n  "description": "An application to upload pages of a Bengali storybook and extract the text content using AI.",\n  "private": true,\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "preview": "vite preview",\n    "predeploy": "npm run build",\n    "deploy": "gh-pages -d dist"\n  },\n  "keywords": [\n    "react",\n    "gemini",\n    "ocr",\n    "bengali",\n    "ai"\n  ],\n  "author": "",\n  "license": "ISC",\n  "devDependencies": {\n    "gh-pages": "^6.0.0",\n    "vite": "^5.2.0"\n  }\n}
+{
+  "name": "bengali-book-ocr-gemini",
+  "version": "1.0.0",
+  "description": "An application to upload pages of a Bengali storybook and extract the text content using AI.",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "react",
+    "gemini",
+    "ocr",
+    "bengali",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
